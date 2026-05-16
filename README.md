@@ -79,7 +79,7 @@ MODEL STATUS ON STARTUP:
 
 DATABASE INFO:
   Total Students: 1
-    - 22100BTAIMLM11253: Jiyanshi Jain (20 images)
+    - 22100BTAIMLM11253: Jiyanshu Jain (20 images)
 
 DATA FOLDERS:
   - 22100BTAIMLM11253: 20 images
@@ -247,8 +247,7 @@ CREATE TABLE students (
 Daily CSV files (`attendance_YYYY-MM-DD.csv`):
 ```csv
 Name,Enrollment,Date,Time
-Jiyanshi Jain,22100BTAIMLM11253,2025-05-16,17:38:31
-Niyu,22100BTAIMLM11252,2025-05-16,17:39:15
+Jiyanshu Jain,22100BTAIMLM11253,2025-05-16,17:38:31
 ```
 
 ---
