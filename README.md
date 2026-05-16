@@ -78,13 +78,11 @@ MODEL STATUS ON STARTUP:
 ==================================================
 
 DATABASE INFO:
-  Total Students: 2
+  Total Students: 1
     - 22100BTAIMLM11253: Jiyanshi Jain (20 images)
-    - 22100BTAIMLM11252: Niyu (18 images)
 
 DATA FOLDERS:
   - 22100BTAIMLM11253: 20 images
-  - 22100BTAIMLM11252: 18 images
 ```
 
 ### Frontend Setup
